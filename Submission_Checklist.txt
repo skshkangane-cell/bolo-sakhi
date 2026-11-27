@@ -1,0 +1,8 @@
+Round 2 submission checklist:
+[ ] Upload index.html and README.md to a public GitHub repository
+[ ] Publish via GitHub Pages and test the link on mobile
+[ ] Record a 2–3 minute screen demo using Demo_Script.txt
+[ ] Upload demo to YouTube as Public or Unlisted
+[ ] Upload Bolo_Sakhi_Pitch_Deck.pdf to the submission portal
+[ ] Submit repository link, YouTube link, and PDF
+[ ] Optional: paste the GitHub Pages live link
