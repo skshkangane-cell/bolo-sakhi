@@ -1,0 +1,13 @@
+BOLO SAKHI — 2–3 minute demo narration
+
+Hello, this is Bolo Sakhi, a voice-first assistant designed to make simple digital tasks easier for people who prefer speaking in their own language.
+
+Many people find app menus, forms or typing challenging. Bolo Sakhi lets a user choose Hindi, Marathi or English, tap a microphone and speak naturally.
+
+I’ll demonstrate a sale: “Aaj 500 rupaye ki sale hui.” The prototype responds and adds the amount to the notebook. Next, I’ll record an expense: “Maine 80 rupaye kharch kiye.” The notebook shows both totals.
+
+A user can also ask for a reminder. The prototype notes the request and reminds the user to set a phone alarm, because real notifications are not implemented yet. For government scheme questions, it points users toward official information and reminds them to verify eligibility.
+
+This is an early prototype. Speech recognition depends on browser support, and the notebook resets on refresh. Our next step is testing with real users, improving multilingual recognition and exploring verified information sources.
+
+Bolo Sakhi: Speak. Understand. Take action.
